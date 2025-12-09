@@ -23,7 +23,7 @@ The Streamlit app lets users test different shot situations by adjusting:
 - Match period  
 
 ## Live Streamlit App
- **(Add your Streamlit Cloud link here once deployed)**
+ https://xg-model.streamlit.app/
 
 ## Repository Structure
 events_all.parquet
