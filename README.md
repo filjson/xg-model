@@ -30,6 +30,7 @@ events_all.parquet
 xg-model/
 │
 ├── xg_app.py # Streamlit application
+
 ├── events_all.parquet # Some data
 ├── xg_model.pkl # Trained machine learning model
 ├── Expected Goals (xG) model.ipynb # Full notebook for data prep & training
